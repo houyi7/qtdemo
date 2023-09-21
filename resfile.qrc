@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>微信图片_20230402213021.jpg</file>
+        <file>respix/9644.png_860.png</file>
+        <file>respix/2187336_214505461082_2.jpg</file>
+        <file>respix/4a5503de7f3b91810b0c8f5645fb24cc.jpg</file>
+        <file>respix/mode.xls</file>
+        <file>respix/type.csv</file>
+        <file>respix/typee.csv</file>
+        <file>respix/test01.csv</file>
+        <file>respix/text02.csv</file>
+    </qresource>
+</RCC>
